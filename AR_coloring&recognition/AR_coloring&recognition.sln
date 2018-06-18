@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AR_coloring&recognition", "Assembly-CSharp.csproj", "{A98692FA-D2D7-AE60-840F-069C48E56ECC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AR_coloring&recognition", "Assembly-CSharp-Editor.csproj", "{4E187479-BE85-6007-2930-F83088AAD887}"
+EndProject
+Project("{72348953-1811-F890-7E4D-5148AEE517ED}") = "AR_coloring&recognition", "Assembly-UnityScript-Editor-firstpass.unityproj", "{60EDBB5A-6D32-CCF0-E6A9-1BC7250CF3F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A98692FA-D2D7-AE60-840F-069C48E56ECC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A98692FA-D2D7-AE60-840F-069C48E56ECC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A98692FA-D2D7-AE60-840F-069C48E56ECC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A98692FA-D2D7-AE60-840F-069C48E56ECC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E187479-BE85-6007-2930-F83088AAD887}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E187479-BE85-6007-2930-F83088AAD887}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E187479-BE85-6007-2930-F83088AAD887}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E187479-BE85-6007-2930-F83088AAD887}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60EDBB5A-6D32-CCF0-E6A9-1BC7250CF3F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60EDBB5A-6D32-CCF0-E6A9-1BC7250CF3F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60EDBB5A-6D32-CCF0-E6A9-1BC7250CF3F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60EDBB5A-6D32-CCF0-E6A9-1BC7250CF3F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
